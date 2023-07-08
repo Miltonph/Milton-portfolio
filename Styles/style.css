@@ -1,0 +1,10 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+
+}
+
